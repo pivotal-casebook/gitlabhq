@@ -144,70 +144,52 @@ These labels describe what development specialities are involved such as: Postgr
 
 #### Improperly formatted issue
 
-```
-Thanks for the issue report. Please reformat your issue to conform to the issue tracker guidelines found in our [contributing guidelines](https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md#issue-tracker-guidelines).
-```
+Thanks for the issue report. Please reformat your issue to conform to the issue tracker guidelines found in our \[contributing guidelines\]\(https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md#issue-tracker-guidelines\).
 
 #### Feature requests
 
 ```
-Thanks for your interest in GitLab. We don't use the GitHub issue tracker for feature requests. Please use http://feedback.gitlab.com/ for this purpose or create a pull request implementing this feature. Have a look at the [contribution guidelines](https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md) for more information.
+Thanks for your interest in GitLab. We don't use the GitHub issue tracker for feature requests. Please use http://feedback.gitlab.com/ for this purpose or create a pull request implementing this feature. Have a look at the \[contribution guidelines\]\(https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md\) for more information.
 ```
 
 #### Issue report for old version
 
-```
-Thanks for the issue report but we only support issues for the latest stable version of GitLab. I'm closing this issue but if you still experience this problem in the latest stable version, please open a new issue (but also reference the old issue(s)). Make sure to also include the necessary debugging information conforming to the issue tracker guidelines found in our [contributing guidelines](https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md#issue-tracker-guidelines).
-```
+Thanks for the issue report but we only support issues for the latest stable version of GitLab. I'm closing this issue but if you still experience this problem in the latest stable version, please open a new issue (but also reference the old issue(s)). Make sure to also include the necessary debugging information conforming to the issue tracker guidelines found in our \[contributing guidelines\]\(https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md#issue-tracker-guidelines\).
 
 #### Support requests and configuration questions
 
-```
-Thanks for your interest in GitLab. We don't use the GitHub issue tracker for support requests and configuration questions. Please use the [support forum](https://groups.google.com/forum/#!forum/gitlabhq), [Stack Overflow](http://stackoverflow.com/questions/tagged/gitlab), the unofficial #gitlab IRC channel on Freenode or the http://www.gitlab.com paid services for this purpose. Have a look at the [contribution guidelines](https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md) for more information.
-```
+Thanks for your interest in GitLab. We don't use the GitHub issue tracker for support requests and configuration questions. Please use the \[support forum\]\(https://groups.google.com/forum/#!forum/gitlabhq\), \[Stack Overflow\]\(http://stackoverflow.com/questions/tagged/gitlab\), the unofficial #gitlab IRC channel on Freenode or the http://www.gitlab.com paid services for this purpose. Have a look at the \[contribution guidelines\]\(https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md\) for more information.
 
 #### Code format
 
-```
 Please use ``` to format console output, logs, and code as it's very hard to read otherwise.
-```
 
 #### Issue fixed in newer version
 
-```
-Thanks for the issue report. This issue has already been fixed in newer versions of GitLab. Due to the size of this project and our limited resources we are only able to support the latest stable release as outlined in our [contributing guidelines](https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md#issue-tracker). In order to get this bug fix and enjoy many new features please [upgrade](http://blog.gitlab.org/). If you still experience issues at that time please open a new issue following our issue tracker guidelines found in the [contributing guidelines](https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md#issue-tracker-guidelines).
-```
+Thanks for the issue report. This issue has already been fixed in newer versions of GitLab. Due to the size of this project and our limited resources we are only able to support the latest stable release as outlined in our \[contributing guidelines\]\(https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md#issue-tracker\). In order to get this bug fix and enjoy many new features please \[upgrade\]\(http://blog.gitlab.org/\). If you still experience issues at that time please open a new issue following our issue tracker guidelines found in the \[contributing guidelines\]\(https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md#issue-tracker-guidelines\).
 
 #### Improperly formatted pull request
 
-```
-Thanks for your interest in improving the GitLab codebase! Please resubmit your pull request following the [contributing guidelines](https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md#pull-request-guidelines).
-```
+Thanks for your interest in improving the GitLab codebase! Please resubmit your pull request following the \[contributing guidelines\]\(https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md#pull-request-guidelines\).
 
 #### Inactivity close of an issue
 
-```
-It's been at least 2 weeks (and a new release) since we heard from you. I'm closing this issue but if you still experience this problem, please open a new issue (but also reference the old issue(s)). Make sure to also include the necessary debugging information conforming to the issue tracker guidelines found in our [contributing guidelines](https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md#issue-tracker-guidelines).
-```
+It's been at least 2 weeks (and a new release) since we heard from you. I'm closing this issue but if you still experience this problem, please open a new issue (but also reference the old issue(s)). Make sure to also include the necessary debugging information conforming to the issue tracker guidelines found in our \[contributing guidelines\]\(https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md#issue-tracker-guidelines\).
 
 #### Inactivity close of a pull request
 
-```
-This pull request has been closed because a request for more information has not been reacted to for more than 2 weeks. If you respond and conform to the pull request guidelines in our [contributing guidelines](https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md#pull-requests) we will reopen this pull request.
-```
+This pull request has been closed because a request for more information has not been reacted to for more than 2 weeks. If you respond and conform to the pull request guidelines in our \[contributing guidelines\]\(https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md#pull-requests\) we will reopen this pull request.
 
 #### Closing an issue
 
 Avoid using this if possible, more details are better.
 
-```
-This issue has been closed because it doesn't conform to the guidelines, please see https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md#closing-policy-for-issues-and-pull-requests for more information.
-```
+This issue has been closed because it doesn't conform to the guidelines,
+ please see https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md#closing-policy-for-issues-and-pull-requests
+ for more information.
 
 #### Closing a pull request
 
 Avoid using this if possible, more details are better.
 
-```
 This pull request has been closed because it doesn't conform to the guidelines, please see https://github.com/gitlabhq/gitlabhq/blob/master/CONTRIBUTING.md#closing-policy-for-issues-and-pull-requests for more information.
-```

@@ -86,6 +86,7 @@ The priority should be mentioning people that can help and assigning workflow la
 If an issue is complex and needs the attention of a specific person, assignment is a good option but assigning issues might discourage other people from contributing to that issue. We need all the contributions we can get so this should never be discouraged. Also, an assigned person might not have time for a few weeks, so others should feel free to takeover. 
 
 Priority (from high to low):
+
 1. Mentioning people (very important)
 2. Workflow labels
 3. Functional labels (less important)
@@ -94,7 +95,7 @@ Priority (from high to low):
 ### Workflow labels
 
 - _Awaiting feedback_: Feedback pending from the reporter
-- _Awaiting confirmation of fix_: The issue should already be solved in master (generally you can avoid this workflow item and just close the issue right away)
+- _Awaiting confirmation of fix_: The issue should already be solved in **master** (generally you can avoid this workflow item and just close the issue right away)
 - _Attached PR_: There is a PR attached and the discussion should happen there
   - We need to let issues stay in sync with the PR's. We can do this with a "Closing #XXXX" or "Fixes #XXXX" comment in the PR. We can't close the issue when there is a pull request because sometimes a PR is not good and we just close the PR, then the issue must stay.
 - _Awaiting developer action/feedback_: Issue needs to be fixed or clarified by a developer

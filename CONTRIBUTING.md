@@ -2,6 +2,11 @@
 
 This guide details how to use issues and pull requests to improve GitLab.
 
+-  [Closing policy for issues and pull requests](#closing-policy-for-issues-and-pull-requests)
+-  [Issue tracker](#issue-tracker)
+-  [Pull requests](#pull-requests)
+-  [Contributing process](#contributing-process)
+
 ## Closing policy for issues and pull requests
 
 GitLab is a popular open source project and the capacity to deal with issues and pull requests is limited. Out of respect for our volunteers, issues and pull requests not in line with the guidelines listed in this document may be closed without notice.
@@ -103,8 +108,8 @@ These labels describe what development specialities are involved such as: Postgr
 - Bright orange `#eb6420`: workflow labels for core team members (attached PR, awaiting developer action/feedback)
 - Light blue `#82C5FF`: functional labels
 - Green labels `#009800`: issues that can generally be ignored. For example, issues given the following labels normally can be closed immediately (we do have some old ones open that Yves will handle):
-  - Feature request (see copy & paste response: Feature requests)
-  - Support (see copy & paste response: Support requests and configuration questions)
+  - Feature request (see copy & paste response: [Feature requests](#feature-requests))
+  - Support (see copy & paste response: [Support requests and configuration questions](#support-requests-and-configuration-questions)
 
 ### Common actions
 
@@ -112,10 +117,10 @@ These labels describe what development specialities are involved such as: Postgr
 - Sets up an email filter for comments from the core development team
 - Looks for issues without workflow labels and triages issue
 - Monitors pull requests
-- Closes invalid issues and pull requests with a comment (duplicates, feature requests, fixed in newer version, issue report for old version, not a problem in GitLab, etc.)
-- Assigns appropriate labels
-- Asks for feedback from issue reporter/pull request initiator (invalid issue reports, format code, etc.)
-- Asks for feedback from the relevant developer(s) based on the list of members and their specialities
+- Closes invalid issues and pull requests with a comment (duplicates, [feature requests](#feature-requests), [fixed in newer version](#issue-fixed-in-newer-version), [issue report for old version](#issue-report-for-old-version), not a problem in GitLab, etc.)
+- Assigns appropriate [labels](#how-we-handle-issues)
+- Asks for feedback from issue reporter/pull request initiator ([invalid issue reports](#improperly-formatted-issue), [format code](#code-format), etc.)
+- Asks for feedback from the relevant developer(s) based on the [list of members and their specialities](http://gitlab.org/team/)
 - Monitors all issues/pull requests for feedback (but especially ones commented on since automatically watching them):
 - Assigns issues to developers if they indicate they are fixing it
 - Assigns pull requests to developers if they indicate they will take care of merge
@@ -126,11 +131,11 @@ These labels describe what development specialities are involved such as: Postgr
 
 - Sets up an email filter for mentions from the issue team (Yves, Ben, and Robert)  
 - Responds to issues and pull requests the issue team mentions them in
-- Monitors for new issues in Awaiting developer action/feedback with no developer activity (once a week)
+- Monitors for new issues in _Awaiting developer action/feedback_ with no developer activity (once a week)
 - Monitors for new pull requests (at least once a week)
 - Manages their work queue by looking at issues and pull requests assigned to them
 - Close fixed issues (via commit messages or manually)
-- Codes new features!
+- Codes [new features](http://feedback.gitlab.com/forums/176466-general/filters/top)!
 - Response guidelines
 - Be as kind as possible to people trying to contribute. Be aware that people can be a non-native or a native English speaker, they might not understand thing or they might be very sensitive to how your word things. Use emoji to express your feelings (hearth, star, smile, etc.). Some good tips about giving feedback to pull requests is in the [Thoughtbot code review guide](https://github.com/thoughtbot/guides/tree/master/code-review).
 
